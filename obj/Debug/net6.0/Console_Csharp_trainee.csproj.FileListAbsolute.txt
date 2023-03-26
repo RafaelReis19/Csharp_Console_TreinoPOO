@@ -1,0 +1,15 @@
+C:\testesChallenges\Console_Csharp_trainee\bin\Debug\net6.0\Console_Csharp_trainee.exe
+C:\testesChallenges\Console_Csharp_trainee\bin\Debug\net6.0\Console_Csharp_trainee.deps.json
+C:\testesChallenges\Console_Csharp_trainee\bin\Debug\net6.0\Console_Csharp_trainee.runtimeconfig.json
+C:\testesChallenges\Console_Csharp_trainee\bin\Debug\net6.0\Console_Csharp_trainee.dll
+C:\testesChallenges\Console_Csharp_trainee\bin\Debug\net6.0\ref\Console_Csharp_trainee.dll
+C:\testesChallenges\Console_Csharp_trainee\bin\Debug\net6.0\Console_Csharp_trainee.pdb
+C:\testesChallenges\Console_Csharp_trainee\obj\Debug\net6.0\Console_Csharp_trainee.csproj.AssemblyReference.cache
+C:\testesChallenges\Console_Csharp_trainee\obj\Debug\net6.0\Console_Csharp_trainee.GeneratedMSBuildEditorConfig.editorconfig
+C:\testesChallenges\Console_Csharp_trainee\obj\Debug\net6.0\Console_Csharp_trainee.AssemblyInfoInputs.cache
+C:\testesChallenges\Console_Csharp_trainee\obj\Debug\net6.0\Console_Csharp_trainee.AssemblyInfo.cs
+C:\testesChallenges\Console_Csharp_trainee\obj\Debug\net6.0\Console_Csharp_trainee.csproj.CoreCompileInputs.cache
+C:\testesChallenges\Console_Csharp_trainee\obj\Debug\net6.0\Console_Csharp_trainee.dll
+C:\testesChallenges\Console_Csharp_trainee\obj\Debug\net6.0\ref\Console_Csharp_trainee.dll
+C:\testesChallenges\Console_Csharp_trainee\obj\Debug\net6.0\Console_Csharp_trainee.pdb
+C:\testesChallenges\Console_Csharp_trainee\obj\Debug\net6.0\Console_Csharp_trainee.genruntimeconfig.cache
